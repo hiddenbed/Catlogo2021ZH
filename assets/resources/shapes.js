@@ -1,0 +1,1 @@
+window.shapes_vcf298nd1j = function() { return {};}
